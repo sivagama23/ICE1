@@ -57,7 +57,7 @@ public class CardTrick {
         System.out.println("-- Investing");
         System.out.println("-- Cooking");
         System.out.println("-- Reading/Watching TV");
-        System.out.println("-- Riding my motorcycle");
+        System.out.println("-- music");
 
         System.out.println();
         
